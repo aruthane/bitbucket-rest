@@ -54,7 +54,7 @@ Can be sourced from jcenter/bintray like so:
         </snapshots>
         <id>jcenter</id>
         <name>bintray</name>
-        <url>http://jcenter.bintray.com</url>
+        <url>https://jcenter.bintray.com</url>
       </repository>
     </repositories>
 ```
